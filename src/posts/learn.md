@@ -29,6 +29,8 @@ Here are some resources to get you started.
 - [Pausing AI Developments Isn't Enough. We Need to Shut it All Down](https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/) (by Eliezer Yudkowski)
 - [Preventing an AI-related catastrophe](https://80000hours.org/problem-profiles/artificial-intelligence/) (by 80,000 hours)
 - [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) (by WaitButWhy)
+- [AI Alignment, Explained in 5 Points](https://medium.com/@daniel_eth/ai-alignment-explained-in-5-points-95e7207300e3)
+- [How rogue AIs may arise](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/) (by Joshua Bengio)
 
 ## Courses
 
@@ -39,6 +41,9 @@ Here are some resources to get you started.
 
 - [Future of Life Institute](https://futureoflife.org/cause-area/artificial-intelligence/) started the [open letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
 - [Effective Altruism](https://www.effectivealtruism.org/). A community of people, many of which are highly concerned about AI safety. They also have a great [post on pursuing a career](https://forum.effectivealtruism.org/posts/7WXPkpqKGKewAymJf/how-to-pursue-a-career-in-technical-ai-alignment) in AI alignment.
+- [FutureSociety](https://thefuturesociety.org/about-us/)
+- [Conjecture](https://www.conjecture.dev/). Start-up that is working on AI alignment and AI policy.
+- [Existential Risk Observatory](https://existentialriskobservatory.org/). Dutch organization that is informing the public on x-risks and studying communication strategies.
 
 ## Books
 

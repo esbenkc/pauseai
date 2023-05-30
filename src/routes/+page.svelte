@@ -2,7 +2,7 @@
 	import Block from '$lib/components/Block.svelte'
 	import Mark from '$lib/components/Mark.svelte'
 
-	const title = 'PauseAI'
+	const title = 'We need to Pause AI'
 </script>
 
 <svelte:head>
@@ -15,19 +15,23 @@
 </svelte:head>
 
 <section>
-	<Block linkText="Read why" href="/xrisk">
-		<span slot="title">WE ARE RISKING <Mark>HUMAN EXTINCTION</Mark></span>
-		A recent survey of AI researchers shows that half of them think there’s at least a 1 in 10 chance
-		that AI could end all life on earth. And that number is growing.
+	<Block linkText="Read about the risks" href="/risks">
+		<span slot="title">We risk <Mark>losing control</Mark></span>
+		AI could erode our democracy, could be used to create powerful computerviruses, and could even cause
+		human extinction.
 	</Block>
 	<Block linkText="Read the proposal" href="/proposal">
 		<span slot="title">We need a <Mark>pause</Mark></span>
 		Stop the development of AI systems more powerful than GPT-4. This needs to happen on an international
 		level, and it needs to happen soon.
 	</Block>
-	<Block linkText="Take action" href="/action">
+	<Block linkText="How long do we have?" href="/urgency">
 		<span slot="title">WE NEED TO ACT <Mark>RIGHT NOW</Mark></span>
 		In 2020, experts thought we had more than 35 years until AGI. We're almost there. Superintelligent
 		systems might be one innovation away, and could happen in months.</Block
+	>
+	<Block linkText="Take action" href="/action">
+		<span slot="title"><Mark>YOU</Mark> CAN HELP</span>
+		Too few people are aware of AI risks. Get informed, inform others, and help slow this train down.</Block
 	>
 </section>

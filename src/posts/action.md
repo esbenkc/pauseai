@@ -13,18 +13,18 @@ You are now one of them.
 
 - **[Join our Discord](https://discord.gg/2XXWXvErfA)** or [other](https://coda.io/@alignmentdev/alignmentecosystemdevelopment) AI safety communities.
 - **[Learn](/learn)** more about AI alignment and the risks we are facing.
-- [**Lobby**](/lobby-tips): convince your government to organize a summit.
+- [**Lobby**](/lobby-tips): convince your government to organize a [summit](/summit).
+- [**Protest**](/protests): join [one of the protests](/protests) or organize one yourself.
 - **Sign petitions**: [pause giant AI experiments](https://futureoflife.org/open-letter/pause-giant-ai-experiments/), [demand responsible AI](https://www.change.org/p/artificial-intelligence-time-is-running-out-for-responsible-ai-development-91f0a02c-130a-46e1-9e55-70d6b274f4df).
 - **Talk** to people in your life about this. Answer their questions, get them to act.
 - **Share** about AI risk on social media. This website might be a good start.
 - **Create** [articles](/learn#articles), [videos](/learn#videos) or [memes](https://twitter.com/AISafetyMemes)
-- **Protest**. Even if it's just you with a sign. Keep in mind the [Code of Conduct](/protesters-code-of-conduct).
 
 ## If you ...
 
 ### If you are convincing
 
-- **Convince one person in your government to organize the summit**. This is the most important thing you can do. See [lobby tips](/lobby-tips).
+- **Convince one person in your government to organize the [summit](/summit)**. This is the most important thing you can do. See [lobby tips](/lobby-tips).
 - **Convince journalists** to write about AI safety. Point them to [educational materials](/learn).
 - **Ask the management** at your current organisation to take an institutional position on this.
 - [Write to your political representatives](https://www.campaignforaisafety.org/politician/).
@@ -33,16 +33,16 @@ You are now one of them.
 
 - **Work towards an [AI safety summit](/proposal)**. Get your country to host one. We need to tackle this problem internationally.
 - **Invite (or subpoena) AI lab leaders** to parliamentary/congressional hearings to give their predictions and timelines of AI disasters.
-- **Establish a committee** to investigate the risks of AI.
+- **Establish a committee** to investigate the [risks of AI](/risks).
 
-### If you know law
+### If you know (international) law
 
 - **Help draft policy**. [You can win $4000 if you write a good draft!](https://www.campaignforaisafety.org/law-competition/). ([some](https://futureoflife.org/wp-content/uploads/2023/04/FLI_Policymaking_In_The_Pause.pdf)  [frameworks](https://www.openphilanthropy.org/research/12-tentative-ideas-for-us-ai-policy/))
 - **Make submissions to government requests for comment** on AI policy ([example](https://ntia.gov/issues/artificial-intelligence/request-for-comments)).
 
 ### If you have money to spare
 
-- **Donate** to the [Campaign for AI Safety](https://www.campaignforaisafety.org/donate/).
+- **Donate** to the [Campaign for AI Safety](https://www.campaignforaisafety.org/donate/), [Future of Life Institute](https://futureoflife.org/donate/), the [Machine Intelligence Research Institute](https://intelligence.org/donate/) or [NonLinearNetwork](https://nonlinearnetwork.org/)
 
 ### If you can write web content
 
@@ -50,6 +50,7 @@ You are now one of them.
 
 ### If you work in AI
 
+- **Don't work towards superintelligence**. If you have some cool idea on how we can make AI systems 10x faster, please don't build it / spread it / talk about it. We need to slow down AI development, not speed it up.
 - **Talk to your management and colleagues** about the risks. Get them to take an institutional position on this.
 - **Hold a seminar** on AI safety at your workplace. Check out the [videos](/learn#videos) for inspiration.
 - **Sign** the [open letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/).
